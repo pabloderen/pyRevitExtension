@@ -1,0 +1,10 @@
+{
+    "builtin": "False",
+    "default_enabled": "False",
+    "type": "extension",
+    "rocket_mode_compatible": "True",
+    "name": "QAQC",
+    "description": "Export model information",
+    "author": "Pablo Derendinger",
+    "dependencies": []
+}
